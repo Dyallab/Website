@@ -38,6 +38,6 @@ yarn build
 
 This project is licensed under the GNU License - see the [LICENSE](./LICENSE) file for details
 
-## 🥳 Special thanks
+## © Rights
 
 Base template was created by [cruip](https://cruip.com/)
