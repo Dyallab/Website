@@ -19,19 +19,19 @@ git clone https://github.com/Dyallab/Website.git
 2. Install dependencies
 
 ```shell
-yarn install
+npm run install
 ```
 
 3. Start the development server
 
 ```shell
-yarn serve
+npm run serve
 ```
 
 4. Build the site
 
 ```shell
-yarn build
+npm run build
 ```
 
 ## 📝 License
